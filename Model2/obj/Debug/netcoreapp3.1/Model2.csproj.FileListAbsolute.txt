@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.exe
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.deps.json
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.runtimeconfig.json
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.dll
+C:\Users\Emilia\Desktop\Model2\Model2\bin\Debug\netcoreapp3.1\Model2.pdb
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.dll
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.pdb
+C:\Users\Emilia\Desktop\Model2\Model2\obj\Debug\netcoreapp3.1\Model2.genruntimeconfig.cache
